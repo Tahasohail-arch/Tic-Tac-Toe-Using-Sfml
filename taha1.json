@@ -1,0 +1,7 @@
+[
+  {
+    "directory": "/path/to/TicTacToe",
+    "command": "g++ main.cpp -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio -std=c++11",
+    "file": "TicTacToe.cpp"
+  }
+]
